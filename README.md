@@ -1,2 +1,5 @@
 # chibihash
-chibihash64 go porting of https://github.com/N-R-K/ChibiHash
+chibihash64 hash algorithm, see https://github.com/N-R-K/ChibiHash
+
+## benchmark
+
